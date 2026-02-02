@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayerData.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Scripts\PlayerDataUI.cs" />
     <Compile Include="Assets\Scripts\FileSystems.cs" />
     <None Include="Library\PackageCache\com.unity.ai.navigation@5218e4bf7edc\ValidationExceptions.json" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
