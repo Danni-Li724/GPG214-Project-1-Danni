@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{b55b35d2-a2ab-e942-7c03-ae91ac0cd0ca}</ProjectGuid>
+    <ProjectGuid>{1906765c-73cb-c789-36f9-8e2bee31ce6a}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -421,19 +421,19 @@
       <HintPath>D:\UnityEditor\6000.0.62f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:\Users\User\Desktop\GPG214 File Systems\Library\PackageCache\com.unity.ext.nunit@031a54704bff\net40\unity-custom\nunit.framework.dll</HintPath>
+      <HintPath>C:\Users\User\Desktop\GPG214 Project 1\Library\PackageCache\com.unity.ext.nunit@031a54704bff\net40\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil">
-      <HintPath>C:\Users\User\Desktop\GPG214 File Systems\Library\PackageCache\com.unity.burst@1df634d836b8\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
+      <HintPath>C:\Users\User\Desktop\GPG214 Project 1\Library\PackageCache\com.unity.burst@1df634d836b8\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Rocks">
-      <HintPath>C:\Users\User\Desktop\GPG214 File Systems\Library\PackageCache\com.unity.burst@1df634d836b8\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
+      <HintPath>C:\Users\User\Desktop\GPG214 Project 1\Library\PackageCache\com.unity.burst@1df634d836b8\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Pdb">
-      <HintPath>C:\Users\User\Desktop\GPG214 File Systems\Library\PackageCache\com.unity.burst@1df634d836b8\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
+      <HintPath>C:\Users\User\Desktop\GPG214 Project 1\Library\PackageCache\com.unity.burst@1df634d836b8\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Mdb">
-      <HintPath>C:\Users\User\Desktop\GPG214 File Systems\Library\PackageCache\com.unity.burst@1df634d836b8\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
+      <HintPath>C:\Users\User\Desktop\GPG214 Project 1\Library\PackageCache\com.unity.burst@1df634d836b8\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:\UnityEditor\6000.0.62f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -816,7 +816,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Burst.csproj">
-      <Project>{e034fd20-f17f-1d9c-937d-b5f08af7ce9b}</Project>
+      <Project>{d9c0c9cd-3aba-5151-1628-e8d65761170d}</Project>
       <Name>Unity.Burst</Name>
     </ProjectReference>
   </ItemGroup>

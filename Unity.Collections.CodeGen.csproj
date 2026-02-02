@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{75ce58eb-c867-f1a3-7094-7e2b2865830d}</ProjectGuid>
+    <ProjectGuid>{deceb8f0-06a9-e5ce-d81a-5dcc59b9a2e3}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -418,16 +418,16 @@
       <HintPath>D:\UnityEditor\6000.0.62f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:\Users\User\Desktop\GPG214 File Systems\Library\PackageCache\com.unity.ext.nunit@031a54704bff\net40\unity-custom\nunit.framework.dll</HintPath>
+      <HintPath>C:\Users\User\Desktop\GPG214 Project 1\Library\PackageCache\com.unity.ext.nunit@031a54704bff\net40\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil">
-      <HintPath>C:\Users\User\Desktop\GPG214 File Systems\Library\PackageCache\com.unity.nuget.mono-cecil@d78732e851eb\Mono.Cecil.dll</HintPath>
+      <HintPath>C:\Users\User\Desktop\GPG214 Project 1\Library\PackageCache\com.unity.nuget.mono-cecil@d78732e851eb\Mono.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil.Rocks">
-      <HintPath>C:\Users\User\Desktop\GPG214 File Systems\Library\PackageCache\com.unity.nuget.mono-cecil@d78732e851eb\Mono.Cecil.Rocks.dll</HintPath>
+      <HintPath>C:\Users\User\Desktop\GPG214 Project 1\Library\PackageCache\com.unity.nuget.mono-cecil@d78732e851eb\Mono.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil.Pdb">
-      <HintPath>C:\Users\User\Desktop\GPG214 File Systems\Library\PackageCache\com.unity.nuget.mono-cecil@d78732e851eb\Mono.Cecil.Pdb.dll</HintPath>
+      <HintPath>C:\Users\User\Desktop\GPG214 Project 1\Library\PackageCache\com.unity.nuget.mono-cecil@d78732e851eb\Mono.Cecil.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:\UnityEditor\6000.0.62f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -810,11 +810,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Burst.csproj">
-      <Project>{e034fd20-f17f-1d9c-937d-b5f08af7ce9b}</Project>
+      <Project>{d9c0c9cd-3aba-5151-1628-e8d65761170d}</Project>
       <Name>Unity.Burst</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Collections.csproj">
-      <Project>{78d321ca-f39b-aa99-dcad-6d4a5d56211d}</Project>
+      <Project>{b6302e8e-244e-43f5-565e-fea927f5bd7c}</Project>
       <Name>Unity.Collections</Name>
     </ProjectReference>
   </ItemGroup>
