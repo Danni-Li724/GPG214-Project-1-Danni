@@ -3,7 +3,6 @@ using UnityEngine;
 
 public class FileSystems : MonoBehaviour
 {
-
    private void Start()
    {
       FileDirectories();
@@ -13,6 +12,9 @@ public class FileSystems : MonoBehaviour
    public void FileDirectories()
    {
       string[] directories = Directory.GetDirectories(Application.dataPath, "*", SearchOption.AllDirectories);
+      string[] allFiles = Directory.GetFiles(Application.dataPath);
+      for (int i = 0; i < allFiles.Length; i++)
+         Debug.Log(allFiles[i]);
       string assetsPath = Application.dataPath;
       Debug.Log("asset path: " + assetsPath);
       string persistentDataPath = Application.persistentDataPath;
